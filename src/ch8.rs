@@ -10,3 +10,7 @@ pub fn median_mode() {
 
     common::print_separator();
 }
+
+pub fn pig_latin() {}
+
+pub fn company_directory() {}

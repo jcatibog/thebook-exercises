@@ -34,6 +34,8 @@ fn main() {
             2 => ch3::nth_fibonacci(),
             3 => ch3::twelve_days_of_christmas(),
             4 => ch8::median_mode(),
+            5 => ch8::pig_latin(),
+            6 => ch8::company_directory(),
             _ => {
                 println!("Goodbye!");
                 break;
